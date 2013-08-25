@@ -1,5 +1,5 @@
 standard
 ========
 
-#规范
+规范
 unfinished.
